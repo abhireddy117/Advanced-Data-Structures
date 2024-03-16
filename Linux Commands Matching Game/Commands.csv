@@ -1,0 +1,37 @@
+return,Used to exit from a shell function
+insmod,Used to insert modules into the kernel
+isof,Provides a list of files that are opened
+ip,Used for performing several network administration tasks
+if,Used to execute commands based on conditions
+function,Used to create functions or methods
+fun,Used to draw various type of patterns on the terminal
+fg,Used to put a background job in foreground
+exec,Used to execute a command from the bash itself
+disable,Used to stop the printers or classes
+diff3,Used to compare the three files line by line
+clear,Used to clear the terminal screen
+chroot,Used to change the root directory
+chown,Used to change the file Owner or group
+kill,Used to terminate processes manually
+scp,Used to copy file(s) between servers in a secure way
+cp,Used to copy files or group of files or directory
+mkdir,Allows the user to create directories
+pwd,It prints the path of the working directory starting from the root
+ls,lists all files and directories
+cd,move one level up
+x,execute permission
+quit,logout
+dd,delet line
+cw,change word
+r,replace word
+cmp,compare two files
+dc,desk calculator
+exit,exit the shell
+ps,process status
+rm,remove file
+sort,sort text files
+vi,text editor
+ss,stock statistics
+tail,output the last part
+tmux,terminal multiplexer
+chmod,modify the permissions of a file
